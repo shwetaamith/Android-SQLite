@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="entername">Enter name</string>
+    <string name="search">Search</string>
+    <string name="searchname">name</string>
+    <string name="searchrated">rated</string>
+    <string name="searchreleased">released</string>
+    <string name="searchplot">plot</string>
+    <string name="searchactors">actors</string>
+    <string name="moviename">Enter name</string>
+    <string name="actorinfo">Enter actor</string>
+    <string name="plot">plot</string>
+    <string name="genre">genre</string>
+    <string name="released">released</string>
+    <string name="rated">rated</string>
+    <string name="year">year</string>
+    <string name="alright">ok</string>
+    <string name="delete">Delete</string>
+</resources>
